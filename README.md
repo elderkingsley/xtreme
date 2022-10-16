@@ -9,3 +9,4 @@ Previously, I had bulit this and other websites on Wordpress, but now, I want
 to rebuild all 4 sites I currently mannage on wordpress with HTML, CSS & JS.
 
 All these sites are e-commerce sites, so I hope after building them here I should be pretty confident to take up other projects.
+Still learning everyday
